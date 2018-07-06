@@ -1,0 +1,7 @@
+D:\UPH\Semes 3\Coding\sumx\bin\Debug\sumx.exe.config
+D:\UPH\Semes 3\Coding\sumx\bin\Debug\sumx.exe
+D:\UPH\Semes 3\Coding\sumx\bin\Debug\sumx.pdb
+D:\UPH\Semes 3\Coding\sumx\obj\Debug\sumx.csprojAssemblyReference.cache
+D:\UPH\Semes 3\Coding\sumx\obj\Debug\sumx.csproj.CoreCompileInputs.cache
+D:\UPH\Semes 3\Coding\sumx\obj\Debug\sumx.exe
+D:\UPH\Semes 3\Coding\sumx\obj\Debug\sumx.pdb
